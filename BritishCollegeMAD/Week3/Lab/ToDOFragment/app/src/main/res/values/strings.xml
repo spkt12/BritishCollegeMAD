@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoFragment</string>
+    <string name="app_name">todo title</string>
+    <string name="app_name">todo title hint</string>
+    <string name="app_name">one line description of the todo</string>
+    <string name="app_name">todo details</string>
+    <string name="app_name">ToDOFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
